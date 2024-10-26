@@ -8,6 +8,7 @@ This wall-following robot operates by detecting and following walls using a comb
 For a demonstration of the robot in action, check out this video link.
 
 https://drive.google.com/file/d/1IVUrpAxzoTOshIIWLx5EQh88XHpgEdw8/view?usp=sharing
+
 Features
 
 	•	Autonomous Navigation: The robot moves independently, adjusting its direction to follow walls accurately.
