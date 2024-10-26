@@ -5,7 +5,9 @@ An Arduino-based robot designed to autonomously navigate along walls using senso
 Project Overview
 
 This wall-following robot operates by detecting and following walls using a combination of ultrasonic sensors and motor controls. It’s programmed to maintain a consistent distance from the wall, allowing it to maneuver around obstacles and adapt to changes in wall positioning.
+For a demonstration of the robot in action, check out this video link.
 
+https://drive.google.com/file/d/1IVUrpAxzoTOshIIWLx5EQh88XHpgEdw8/view?usp=sharing
 Features
 
 	•	Autonomous Navigation: The robot moves independently, adjusting its direction to follow walls accurately.
@@ -15,10 +17,6 @@ Features
 How It Works
 
 The robot utilizes ultrasonic sensors to detect the wall and calculates the optimal distance, adjusting its direction as needed. The motors respond to the sensors’ input, making real-time adjustments to ensure smooth, stable navigation along the wall.
-
-For a demonstration of the robot in action, check out this video link.
-
-https://drive.google.com/file/d/1IVUrpAxzoTOshIIWLx5EQh88XHpgEdw8/view?usp=sharing
 
 Technologies and Components
 
